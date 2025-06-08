@@ -22,6 +22,6 @@ Amazon may block requests if you paste multiple links too quickly. Please wait a
 
 ## 🌐 Live Demo
 
-> Deployed the app on **[Streamlit Cloud](amazonappuctscrapper-fdptogsbm2kyvvzwqs3xtr)**
+> Deployed the app on **[Streamlit Cloud](https://amazonappuctscrapper-fdptogsbm2kyvvzwqs3xtr.streamlit.app/)**
 
 ---
