@@ -53,7 +53,7 @@ st.markdown("---")
 
 footer_html = """
 <div style="text-align: center; color: gray; font-size: 14px; margin-top: 20px;">
-    <p>Designed with ❤️ using <a href="https://streamlit.io/" target="_blank" style="text-decoration:none; color:gray;">Streamlit</a> by <strong>Mehul Jain</strong></p>
+    <p>Designed with ❤️ using <a href="https://streamlit.io/" target="_blank" style="text-decoration:none; color:gray;">Streamlit</a> by <strong>Viswanath Akella</strong></p>
     <p>© 2025 Viswanath Akella. All rights reserved.</p>
     <p>
         <a href="www.linkedin.com/in/a-viswanath-a199611a1" target="_blank" style="text-decoration:none;">
